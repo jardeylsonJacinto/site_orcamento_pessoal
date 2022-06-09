@@ -2,7 +2,7 @@
 
 A ideia do site é criar, consultar e organizar as despesas pessoais.
 
-## sobre o projeto
+## Sobre o projeto
 Este projeto foi criado para colocar em prática os conhecimentos adquirido no curso de 
 Desenvolvimento web da udemy de um projeto web. Como objetivo do projeto foi preciso desenvolver um 
 site utilizando a criação de objetos, recurso de (ES6) juntos as tecnologias como: HTML, Javascript e bootstrap. Para salvar os dados e armazenar dentro do Local Storage do browser
